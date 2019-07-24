@@ -1,6 +1,6 @@
 # Emulino
 
-This is a fork from [ghewgill/emulino](https://github.com/ghewgill/emulino) intended to be built on Mac OS.
+This is a fork from [ghewgill/emulino](https://github.com/ghewgill/emulino) intended to be built on **Mac OS**.
 
 Emulino is an emulator for the Arduino platform by Greg Hewgill.
 
