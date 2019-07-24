@@ -3,7 +3,6 @@
 This is a fork from [ghewgill/emulino](https://github.com/ghewgill/emulino) intended to be built on Mac OS.
 
 Emulino is an emulator for the Arduino platform by Greg Hewgill.
-The instructions in this readme are highly inspired by [this tutorial](https://wiki.ubuntu.com/Emulino) from Ubuntu wiki.
 
 ## Install
 
