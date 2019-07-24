@@ -7,6 +7,16 @@ The instructions in this readme are highly inspired by [this tutorial](https://w
 
 ## Install
 
+Download a prebuilt binary from [repository releases](https://github.com/juliendargelos/emulino/releases) or [build it from source](#build-from-source).
+
+## Usage
+
+```bash
+emulino YOUR_PROGRAM.hex
+```
+
+## Build from source
+
 Clone the repository:
 
 ```bash
@@ -25,10 +35,4 @@ Go to the project folder and build the binary:
 scons
 ```
 
-You will get an `emulino` binary. Now you can move it to `/usr/local/bin` if you want.
-
-## Usage
-
-```bash
-emulino YOUR_PROGRAM.hex
-```
+You will get the `emulino` binary.
