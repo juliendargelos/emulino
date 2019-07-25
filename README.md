@@ -19,7 +19,7 @@ emulino YOUR_PROGRAM.hex
 Clone the repository:
 
 ```bash
-git clone git@github.com/juliendargelos/emulino
+git clone git@github.com:juliendargelos/emulino
 ```
 
 Make sure you have [scons](https://scons.org) installed on your machine or install it with [brew](https://brew.sh):
