@@ -6,7 +6,7 @@ Emulino is an emulator for the Arduino platform by Greg Hewgill.
 
 ## Install
 
-Download the [latest release](https://github.com/juliendargelos/emulino/releases) or [build it from source](#build-from-source).
+Download the [latest release](https://github.com/juliendargelos/emulino/releases/latest) or [build it from source](#build-from-source).
 
 ## Usage
 
