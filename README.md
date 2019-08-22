@@ -34,4 +34,4 @@ Go to the project folder and build the binary:
 scons
 ```
 
-You will get the `emulino` binary.
+You will get the `emulino` executable.
